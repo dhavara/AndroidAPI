@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProjectCourseAPI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="project">Projects</string>
+    <string name="course">Courses</string>
+    <string name="profile">Profile</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+    <string name="pass">password</string>
+    <string name="cpass">confirm password</string>
+</resources>

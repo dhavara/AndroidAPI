@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/projectFragment2"
+        android:icon="@drawable/ic_baseline_all_inbox_24"
+        android:title="@string/project" />
+    <item
+        android:id="@+id/courseFragment2"
+        android:icon="@drawable/ic_baseline_account_balance_24"
+        android:title="@string/course" />
+
+    <item
+        android:id="@+id/profileFragment2"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="@string/profile" />
+</menu>

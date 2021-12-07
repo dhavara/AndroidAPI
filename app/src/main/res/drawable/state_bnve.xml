@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:color="@android:color/white"
+        android:drawable="@color/dark_blue"
+        android:state_checked="true"
+        android:title="active" />
+
+    <item
+        android:color="@android:color/white"
+        android:drawable="@color/uc_color"
+        android:state_checked="false"
+        android:title="not_active" />
+
+</selector>
